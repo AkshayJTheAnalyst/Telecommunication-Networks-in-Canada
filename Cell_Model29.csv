@@ -1,0 +1,611 @@
+City,Provience,POPULATION,Cell Tower Count,Population Coverage,Geeen Zone OR Red Zone,Recommend Towers
+Fox Island Main,Nova Scotia,519716,925,405284.0,Green Zone,NA
+Halifax,Nova Scotia,403131,842,438869.0,Green Zone,NA
+Kentville,Nova Scotia,12088,35,22912.0,Green Zone,NA
+Port Hawkesbury,Nova Scotia,3214,10,6786.0,Green Zone,NA
+Cape Breton,Nova Scotia,94285,169,74715.0,Green Zone,NA
+Bridgewater,Nova Scotia,8532,40,31468.0,Green Zone,NA
+Truro,Nova Scotia,12826,20,7174.0,Green Zone,NA
+New Glasgow,Nova Scotia,20609,33,12391.0,Green Zone,NA
+Amherst,Nova Scotia,9550,23,13450.0,Green Zone,NA
+Eskasoni 3,Nova Scotia,20061,6,-14061.0,Red Zone,14
+Plaister Mines,Nova Scotia,3763,7,3237.0,Green Zone,NA
+Antigonish,Nova Scotia,5002,27,21998.0,Green Zone,NA
+Yarmouth,Nova Scotia,6518,25,18482.0,Green Zone,NA
+Washabuck Bridge,Nova Scotia,4077,11,6923.0,Green Zone,NA
+Lantz,Nova Scotia,1703,6,4297.0,Green Zone,NA
+Wolfville,Nova Scotia,4195,24,19805.0,Green Zone,NA
+Murrays Siding,Nova Scotia,1455,20,18545.0,Green Zone,NA
+Severn,Ontario,31166,176,144834.0,Green Zone,NA
+Caledon,Ontario,66502,317,250498.0,Green Zone,NA
+Lambton Shores,Ontario,14086,103,88914.0,Green Zone,NA
+Toronto,Ontario,5429524,9186,3756476.0,Green Zone,NA
+Innisfil,Ontario,36566,63,26434.0,Green Zone,NA
+Clearview,Ontario,21793,158,136207.0,Green Zone,NA
+Stouffville,Ontario,84224,135,50776.0,Green Zone,NA
+Guelph,Ontario,131794,277,145206.0,Green Zone,NA
+Sables-Spanish Rivers,Ontario,3214,142,138786.0,Green Zone,NA
+North Dundas,Ontario,11278,200,188722.0,Green Zone,NA
+London,Ontario,383822,648,264178.0,Green Zone,NA
+Blind River,Ontario,3472,212,208528.0,Green Zone,NA
+Brampton,Ontario,593638,1153,559362.0,Green Zone,NA
+Simcoe,Ontario,6138,42,35862.0,Green Zone,NA
+Oshawa,Ontario,166000,304,138000.0,Green Zone,NA
+Hamilton,Ontario,693645,1498,804355.0,Green Zone,NA
+Markham,Ontario,328966,783,454034.0,Green Zone,NA
+Niagara-on-the-Lake,Ontario,30710,270,239290.0,Green Zone,NA
+Vaughan,Ontario,306233,910,603767.0,Green Zone,NA
+Sudbury,Ontario,88054,309,220946.0,Green Zone,NA
+Oakville,Ontario,193832,477,283168.0,Green Zone,NA
+Ajax,Ontario,119677,208,88323.0,Green Zone,NA
+South Frontenac,Ontario,18646,296,277354.0,Green Zone,NA
+New Tecumseth,Ontario,41439,259,217561.0,Green Zone,NA
+Mississauga,Ontario,721599,2095,1373401.0,Green Zone,NA
+Iroquois Falls,Ontario,7981,66,58019.0,Green Zone,NA
+Perry,Ontario,3167,302,298833.0,Green Zone,NA
+West Lincoln,Ontario,14500,331,316500.0,Green Zone,NA
+Temiskaming Shores,Ontario,9920,115,105080.0,Green Zone,NA
+Markstay,Ontario,88054,314,225946.0,Green Zone,NA
+Lake of Bays,Ontario,19816,283,263184.0,Green Zone,NA
+Dawn-Euphemia,Ontario,101647,173,71353.0,Green Zone,NA
+Whitewater Region,Ontario,7009,373,365991.0,Green Zone,NA
+Kitchener,Ontario,256885,321,64115.0,Green Zone,NA
+Melancthon,Ontario,11439,29,17561.0,Green Zone,NA
+Ashfield-Colborne-Wawanosh,Ontario,7628,23,15372.0,Green Zone,NA
+Erin,Ontario,110128,384,273872.0,Green Zone,NA
+South Huron,Ontario,17262,229,211738.0,Green Zone,NA
+Red Lake,Ontario,5272,117,111728.0,Green Zone,NA
+Barrie,Ontario,147829,111,-36829.0,Red Zone,37
+Waterloo,Ontario,104986,138,33014.0,Green Zone,NA
+Brockville,Ontario,21854,85,63146.0,Green Zone,NA
+Woodstock,Ontario,40902,30,-10902.0,Red Zone,11
+Brighton,Ontario,50716,509,458284.0,Green Zone,NA
+Muskoka Falls,Ontario,16010,335,318990.0,Green Zone,NA
+Timmins,Ontario,41788,115,73212.0,Green Zone,NA
+Ottawa,Ontario,989567,1273,283433.0,Green Zone,NA
+Kenora,Ontario,15096,197,181904.0,Green Zone,NA
+South Glengarry,Ontario,46589,80,33411.0,Green Zone,NA
+Pointe-Claire,Quebec,31380,45,13620.0,Green Zone,NA
+Montreal,Quebec,1762949,1768,5051.0,Green Zone,NA
+Vaudreuil-Dorion,Quebec,38117,60,21883.0,Green Zone,NA
+Quebec City,Quebec,531902,2710,2178098.0,Green Zone,NA
+Laval,Quebec,422993,476,53007.0,Green Zone,NA
+Saint-Jean-sur-Richelieu,Quebec,92394,68,-24394.0,Red Zone,24
+Repentigny,Quebec,84965,40,-44965.0,Red Zone,45
+Sherbrooke,Quebec,161323,247,85677.0,Green Zone,NA
+Saint-Hyacinthe,Quebec,59614,31,-28614.0,Red Zone,29
+Longueuil,Quebec,239700,237,-2700.0,Red Zone,3
+Lac-Brome,Quebec,58889,222,163111.0,Green Zone,NA
+Saint-Hippolyte,Quebec,8083,26,17917.0,Green Zone,NA
+Saint-Andre-Avellin,Quebec,3749,114,110251.0,Green Zone,NA
+Boisbriand,Quebec,26884,24,-2884.0,Red Zone,3
+Saint-Lazare,Quebec,19889,24,4111.0,Green Zone,NA
+Saint-Bruno-de-Montarville,Quebec,26107,20,-6107.0,Red Zone,6
+Chateauguay,Quebec,50815,30,-20815.0,Red Zone,21
+Sainte-Marthe-sur-le-Lac,Quebec,18074,61,42926.0,Green Zone,NA
+Boucherville,Quebec,40753,37,-3753.0,Red Zone,4
+Ferme-Neuve,Quebec,2822,116,113178.0,Green Zone,NA
+Mirabel,Quebec,50513,66,15487.0,Green Zone,NA
+Sainte-Sophie,Quebec,13375,19,5625.0,Green Zone,NA
+Brossard,Quebec,85721,52,-33721.0,Red Zone,34
+Cookshire,Quebec,5393,200,194607.0,Green Zone,NA
+La Prairie,Quebec,23357,40,16643.0,Green Zone,NA
+Sainte-Catherine,Quebec,16762,23,6238.0,Green Zone,NA
+Blainville,Quebec,56363,81,24637.0,Green Zone,NA
+Saint-Jerome,Quebec,69598,50,-19598.0,Red Zone,20
+Terrebonne,Quebec,111575,114,2425.0,Green Zone,NA
+Napierville,Quebec,3899,152,148101.0,Green Zone,NA
+Rigaud,Quebec,7566,73,65434.0,Green Zone,NA
+Val-David,Quebec,5209,273,267791.0,Green Zone,NA
+Mont-Tremblant,Quebec,9646,57,47354.0,Green Zone,NA
+Gatineau,Quebec,276245,301,24755.0,Green Zone,NA
+La Peche,Quebec,7863,202,194137.0,Green Zone,NA
+Old Chelsea,Quebec,6909,11,4091.0,Green Zone,NA
+Rawdon,Quebec,10416,355,344584.0,Green Zone,NA
+Drummondville,Quebec,68601,86,17399.0,Green Zone,NA
+Prevost,Quebec,12171,90,77829.0,Green Zone,NA
+Sainte-Martine,Quebec,5461,106,100539.0,Green Zone,NA
+Louiseville,Quebec,7517,13,5483.0,Green Zone,NA
+Sainte-Victoire-de-Sorel,Quebec,2501,42,39499.0,Green Zone,NA
+Sainte-Anne-de-Sorel,Quebec,41629,69,27371.0,Green Zone,NA
+Amos,Quebec,12823,14,1177.0,Green Zone,NA
+Mistissini,Quebec,42334,156,113666.0,Green Zone,NA
+Val-d'Or,Quebec,31862,94,62138.0,Green Zone,NA
+Macamic,Quebec,42334,125,82666.0,Green Zone,NA
+Mont-Laurier,Quebec,13779,27,13221.0,Green Zone,NA
+Beauharnois,Quebec,12011,26,13989.0,Green Zone,NA
+Val-des-Monts,Quebec,11582,40,28418.0,Green Zone,NA
+Joliette,Quebec,19621,23,3379.0,Green Zone,NA
+Sainte-Julie,Quebec,30104,34,3896.0,Green Zone,NA
+Acton Vale,Quebec,7664,94,86336.0,Green Zone,NA
+Mont-Saint-Hilaire,Quebec,18200,7,-11200.0,Red Zone,11
+Beloeil,Quebec,50796,30,-20796.0,Red Zone,21
+Westmount,Quebec,19931,29,9069.0,Green Zone,NA
+Saint-Eustache,Quebec,44154,29,-15154.0,Red Zone,15
+Saint-Constant,Quebec,27359,25,-2359.0,Red Zone,2
+Amulet,Quebec,42334,72,29666.0,Green Zone,NA
+Saint-Amable,Quebec,10870,88,77130.0,Green Zone,NA
+Warwick,Quebec,4766,45,40234.0,Green Zone,NA
+Dorval,Quebec,31380,85,53620.0,Green Zone,NA
+Saint-Colomban,Quebec,13080,19,5920.0,Green Zone,NA
+Sainte-Anne-de-Bellevue,Quebec,4958,24,19042.0,Green Zone,NA
+Beaconsfield,Quebec,19115,24,4885.0,Green Zone,NA
+Mascouche,Quebec,42491,21,-21491.0,Red Zone,21
+Granby,Quebec,63433,80,16567.0,Green Zone,NA
+Lachute,Quebec,12551,29,16449.0,Green Zone,NA
+Saint-Germain-de-Grantham,Quebec,4551,75,70449.0,Green Zone,NA
+Chisasibi,Quebec,4872,43,38128.0,Green Zone,NA
+Maniwaki,Quebec,3930,20,16070.0,Green Zone,NA
+Coaticook,Quebec,8698,26,17302.0,Green Zone,NA
+Chambly,Quebec,29120,27,-2120.0,Red Zone,2
+Dollard-des-Ormeaux,Quebec,48403,23,-25403.0,Red Zone,25
+Varennes,Quebec,20994,21,6.0,Green Zone,NA
+L'Assomption,Quebec,20065,12,-8065.0,Red Zone,8
+Sainte-Adele,Quebec,12137,36,23863.0,Green Zone,NA
+Cote-Saint-Luc,Quebec,32448,19,-13448.0,Red Zone,13
+Bromont,Quebec,7649,37,29351.0,Green Zone,NA
+Sainte-Agathe-des-Monts,Quebec,10223,31,20777.0,Green Zone,NA
+Val-Shefford,Quebec,6711,8,1289.0,Green Zone,NA
+Cowansville,Quebec,12489,26,13511.0,Green Zone,NA
+Pincourt,Quebec,14558,15,442.0,Green Zone,NA
+Mont-Royal,Quebec,19503,9,-10503.0,Red Zone,11
+Mercier,Quebec,13115,15,1885.0,Green Zone,NA
+Magog,Quebec,25358,36,10642.0,Green Zone,NA
+Nicolet,Quebec,7828,12,4172.0,Green Zone,NA
+Windsor,Quebec,5300,8,2700.0,Green Zone,NA
+Marieville,Quebec,10094,6,-4094.0,Red Zone,4
+Charlemagne,Quebec,6302,15,8698.0,Green Zone,NA
+Saint-Cyrille-de-Wendover,Quebec,4389,6,1611.0,Green Zone,NA
+Farnham,Quebec,8330,11,2670.0,Green Zone,NA
+Framboise,Nova Scotia,1575,1,-575.0,Red Zone,1
+Wawa,Ontario,2905,132,129095.0,Green Zone,NA
+Shuniah,Ontario,2798,101,98202.0,Green Zone,NA
+Thunder Bay,Ontario,107909,440,332091.0,Green Zone,NA
+Fort Frances,Ontario,7739,48,40261.0,Green Zone,NA
+Greenstone,Ontario,5922,117,111078.0,Green Zone,NA
+Emo,Ontario,1333,85,83667.0,Green Zone,NA
+Oliver Paipoonge,Ontario,107909,233,125091.0,Green Zone,NA
+Dryden,Ontario,7749,89,81251.0,Green Zone,NA
+Cavan Monaghan,Ontario,8829,43,34171.0,Green Zone,NA
+The Nation / La Nation,Ontario,13150,315,301850.0,Green Zone,NA
+Hastings Highlands,Ontario,17060,458,440940.0,Green Zone,NA
+Cornwall,Ontario,46589,59,12411.0,Green Zone,NA
+Richmond Hill,Ontario,195022,342,146978.0,Green Zone,NA
+Blandford-Blenheim,Ontario,11001,82,70999.0,Green Zone,NA
+Clarington,Ontario,128377,308,179623.0,Green Zone,NA
+Tiny,Ontario,11787,89,77213.0,Green Zone,NA
+Kawartha Lakes,Ontario,75423,497,421577.0,Green Zone,NA
+Kingston,Ontario,67490,314,246510.0,Green Zone,NA
+Dysart et al,Ontario,75423,176,100577.0,Green Zone,NA
+Petawawa,Ontario,17187,52,34813.0,Green Zone,NA
+Belleville,Ontario,50716,108,57284.0,Green Zone,NA
+Milton,Ontario,110128,231,120872.0,Green Zone,NA
+Uxbridge,Ontario,45837,293,247163.0,Green Zone,NA
+Wilmot,Ontario,20545,17,-3545.0,Red Zone,4
+Oro-Medonte,Ontario,172657,201,28343.0,Green Zone,NA
+Wainfleet,Ontario,6372,135,128628.0,Green Zone,NA
+Cayuga,Ontario,99225,124,24775.0,Green Zone,NA
+Burlington,Ontario,183314,458,274686.0,Green Zone,NA
+Wellington North,Ontario,13130,196,182870.0,Green Zone,NA
+Whitby,Ontario,128377,215,86623.0,Green Zone,NA
+Seguin,Ontario,6408,173,166592.0,Green Zone,NA
+Tillsonburg,Ontario,15872,22,6128.0,Green Zone,NA
+Mulmur,Ontario,8609,49,40391.0,Green Zone,NA
+The Blue Mountains,Ontario,13715,277,263285.0,Green Zone,NA
+Mono,Ontario,30734,122,91266.0,Green Zone,NA
+Southgate,Ontario,12518,160,147482.0,Green Zone,NA
+St. Catharines,Ontario,133113,189,55887.0,Green Zone,NA
+Lincoln,Ontario,23787,108,84213.0,Green Zone,NA
+Niagara Falls,Ontario,308596,307,-1596.0,Red Zone,2
+Pickering,Ontario,91771,358,266229.0,Green Zone,NA
+Essex,Ontario,21216,56,34784.0,Green Zone,NA
+Bradford West Gwillimbury,Ontario,41439,291,249561.0,Green Zone,NA
+Halton Hills,Ontario,61161,132,70839.0,Green Zone,NA
+Chatham,Ontario,101647,111,9353.0,Green Zone,NA
+Windsor,Ontario,21216,116,94784.0,Green Zone,NA
+East Ferris,Ontario,14364,291,276636.0,Green Zone,NA
+Ingolf,Ontario,18612,12,-6612.0,Red Zone,7
+Sault Ste. Marie,Ontario,73368,101,27632.0,Green Zone,NA
+Carling,Ontario,1125,81,79875.0,Green Zone,NA
+West Nipissing / Nipissing Ouest,Ontario,51553,139,87447.0,Green Zone,NA
+Wasaga Beach,Ontario,20675,64,43325.0,Green Zone,NA
+Prince,Ontario,73368,238,164632.0,Green Zone,NA
+Essa,Ontario,21083,179,157917.0,Green Zone,NA
+Peterborough,Ontario,82094,51,-31094.0,Red Zone,31
+Point Edward,Ontario,71594,68,-3594.0,Red Zone,4
+Scugog,Ontario,21617,102,80383.0,Green Zone,NA
+Sioux Narrows-Nestor Falls,Ontario,1082,77,75918.0,Green Zone,NA
+Pembroke,Ontario,13882,64,50118.0,Green Zone,NA
+Thorold,Ontario,18801,48,29199.0,Green Zone,NA
+Brant,Ontario,97496,188,90504.0,Green Zone,NA
+Fort Erie,Ontario,30710,74,43290.0,Green Zone,NA
+Selwyn,Ontario,18653,30,11347.0,Green Zone,NA
+Lanark Highlands,Ontario,16451,141,124549.0,Green Zone,NA
+Southwest Middlesex,Ontario,20867,196,175133.0,Green Zone,NA
+Hanover,Ontario,12518,16,3482.0,Green Zone,NA
+East Zorra-Tavistock,Ontario,40902,74,33098.0,Green Zone,NA
+Mapleton,Ontario,13130,14,870.0,Green Zone,NA
+Brantford,Ontario,97496,103,5504.0,Green Zone,NA
+Burford,Ontario,36707,116,79293.0,Green Zone,NA
+Southwold,Ontario,61707,89,27293.0,Green Zone,NA
+Puslinch,Ontario,7336,57,49664.0,Green Zone,NA
+Aurora,Ontario,55445,156,100555.0,Green Zone,NA
+King,Ontario,1082,134,132918.0,Green Zone,NA
+Neebing,Ontario,2055,13,10945.0,Green Zone,NA
+Delhi,Ontario,4240,16,11760.0,Green Zone,NA
+Cambridge,Ontario,129920,96,-33920.0,Red Zone,34
+Owen Sound,Ontario,31820,70,38180.0,Green Zone,NA
+Sarnia,Ontario,71594,63,-8594.0,Red Zone,9
+Otonabee-South Monaghan,Ontario,82094,73,-9094.0,Red Zone,9
+West Perth,Ontario,13130,73,59870.0,Green Zone,NA
+Meaford,Ontario,10991,38,27009.0,Green Zone,NA
+South-West Oxford,Ontario,12757,76,63243.0,Green Zone,NA
+Port Hope,Ontario,16753,50,33247.0,Green Zone,NA
+McNab/Braeside,Ontario,8223,35,26777.0,Green Zone,NA
+Dunnville,Ontario,20061,20,-61.0,Red Zone,0
+Centre Wellington,Ontario,28191,44,15809.0,Green Zone,NA
+Quinte West,Ontario,43577,74,30423.0,Green Zone,NA
+Hawkesbury,Ontario,10263,49,38737.0,Green Zone,NA
+Smiths Falls,Ontario,8780,58,49220.0,Green Zone,NA
+Gananoque,Ontario,9465,23,13535.0,Green Zone,NA
+Woolwich,Ontario,25006,60,34994.0,Green Zone,NA
+Leamington,Ontario,32991,14,-18991.0,Red Zone,19
+Loyalist,Ontario,16971,33,16029.0,Green Zone,NA
+Welland,Ontario,52293,53,707.0,Green Zone,NA
+L'Ange-Gardien,Quebec,5464,12,6536.0,Green Zone,NA
+La Sarre,Quebec,7719,12,4281.0,Green Zone,NA
+Salaberry-de-Valleyfield,Quebec,42410,33,-9410.0,Red Zone,9
+Delson,Quebec,7462,9,1538.0,Green Zone,NA
+The Nation / La Nation,Quebec,13150,11,-2150.0,Red Zone,2
+Saint-Basile-le-Grand,Quebec,16736,9,-7736.0,Red Zone,8
+Ville-Marie,Quebec,2595,6,3405.0,Green Zone,NA
+Lavaltrie,Quebec,13657,15,1343.0,Green Zone,NA
+Drummond/North Elmsley,Ontario,7773,12,4227.0,Green Zone,NA
+Cochrane,Ontario,25853,135,109147.0,Green Zone,NA
+Cobourg,Ontario,19440,64,44560.0,Green Zone,NA
+Aylmer,Ontario,9292,13,3708.0,Green Zone,NA
+Grimsby,Ontario,27314,41,13686.0,Green Zone,NA
+Kincardine,Ontario,11389,24,12611.0,Green Zone,NA
+Beckwith,Ontario,13163,24,10837.0,Green Zone,NA
+Sioux Lookout,Ontario,5272,19,13728.0,Green Zone,NA
+Georgian Bay,Ontario,12311,21,8689.0,Green Zone,NA
+East Gwillimbury,Ontario,23991,27,3009.0,Green Zone,NA
+Elliot Lake,Ontario,10741,26,15259.0,Green Zone,NA
+St. Marys,Ontario,7265,15,7735.0,Green Zone,NA
+Perth East,Ontario,31465,36,4535.0,Green Zone,NA
+Kingsville,Ontario,21552,9,-12552.0,Red Zone,13
+Russell,Ontario,16520,18,1480.0,Green Zone,NA
+Saint-Lin--Laurentides,Quebec,17463,6,-11463.0,Red Zone,11
+Kirkland Lake,Ontario,7981,22,14019.0,Green Zone,NA
+Stratford,Ontario,31465,7,-24465.0,Red Zone,24
+St. Thomas,Ontario,61707,30,-31707.0,Red Zone,32
+Clarence-Rockland,Ontario,24512,14,-10512.0,Red Zone,11
+Amherstburg,Ontario,21936,6,-15936.0,Red Zone,16
+St. Clair,Ontario,14086,47,32914.0,Green Zone,NA
+Strathroy-Caradoc,Ontario,20867,35,14133.0,Green Zone,NA
+Kapuskasing,Ontario,8292,22,13708.0,Green Zone,NA
+Newmarket,Ontario,84224,51,-33224.0,Red Zone,33
+Lakeshore,Ontario,36611,11,-25611.0,Red Zone,26
+Georgina,Ontario,45418,42,-3418.0,Red Zone,3
+LaSalle,Ontario,30180,3,-27180.0,Red Zone,27
+L'Epiphanie,Quebec,5353,3,-2353.0,Red Zone,2
+Espanola,Ontario,4996,12,7004.0,Green Zone,NA
+Weyburn,Saskatchewan,10870,40,29130.0,Green Zone,NA
+Maple Creek,Saskatchewan,2084,241,238916.0,Green Zone,NA
+Carlyle,Saskatchewan,1503,244,242497.0,Green Zone,NA
+Ile-a-la-Crosse,Saskatchewan,4065,415,410935.0,Green Zone,NA
+St. Louis No. 431,Saskatchewan,11020,499,487980.0,Green Zone,NA
+Assiniboia,Saskatchewan,2389,239,236611.0,Green Zone,NA
+Melville,Saskatchewan,4562,447,442438.0,Green Zone,NA
+Vanscoy No. 345,Saskatchewan,246376,468,221624.0,Green Zone,NA
+La Ronge,Saskatchewan,5671,422,416329.0,Green Zone,NA
+Regina,Saskatchewan,215106,443,227894.0,Green Zone,NA
+Moosomin,Saskatchewan,4490,544,539510.0,Green Zone,NA
+Saskatoon,Saskatchewan,246376,327,80624.0,Green Zone,NA
+Flin Flon,Saskatchewan,5185,20,14815.0,Green Zone,NA
+Melfort,Saskatchewan,5992,172,166008.0,Green Zone,NA
+Meadow Lake No. 588,Saskatchewan,5344,22,16656.0,Green Zone,NA
+Buckland No. 491,Saskatchewan,35926,88,52074.0,Green Zone,NA
+Yorkton,Saskatchewan,16343,66,49657.0,Green Zone,NA
+Swift Current No. 137,Saskatchewan,16604,64,47396.0,Green Zone,NA
+Corman Park No. 344,Saskatchewan,8568,46,37432.0,Green Zone,NA
+Moose Jaw,Saskatchewan,33890,40,6110.0,Green Zone,NA
+Edenwold No. 158,Saskatchewan,4490,13,8510.0,Green Zone,NA
+North Battleford,Saskatchewan,13888,21,7112.0,Green Zone,NA
+Moose Jaw No. 161,Saskatchewan,1163,38,36837.0,Green Zone,NA
+Estevan,Saskatchewan,11258,37,25742.0,Green Zone,NA
+Wilton No. 472,Saskatchewan,31410,28,-3410.0,Red Zone,3
+Ile-a-la-Crosse,Alberta,4065,6,1935.0,Green Zone,NA
+Calgary,Alberta,1306784,1590,283216.0,Green Zone,NA
+Chestermere,Alberta,19887,109,89113.0,Green Zone,NA
+Athabasca,Alberta,2965,26,23035.0,Green Zone,NA
+Claresholm,Alberta,3780,212,208220.0,Green Zone,NA
+Tofield,Alberta,2081,163,160919.0,Green Zone,NA
+High Level,Alberta,3159,218,214841.0,Green Zone,NA
+Jasper,Alberta,4590,178,173410.0,Green Zone,NA
+Edmonton,Alberta,1062643,1272,209357.0,Green Zone,NA
+Stettler,Alberta,5952,154,148048.0,Green Zone,NA
+St. Paul,Alberta,5827,128,122173.0,Green Zone,NA
+Rocky Mountain House,Alberta,6635,51,44365.0,Green Zone,NA
+Red Deer,Alberta,100418,113,12582.0,Green Zone,NA
+Slave Lake,Alberta,6651,113,106349.0,Green Zone,NA
+Medicine Hat,Alberta,63260,106,42740.0,Green Zone,NA
+Sherwood Park,Alberta,1496,109,107504.0,Green Zone,NA
+Grande Prairie,Alberta,63166,50,-13166.0,Red Zone,13
+High River,Alberta,13584,12,-1584.0,Red Zone,2
+Wood Buffalo,Alberta,71589,185,113411.0,Green Zone,NA
+Banff,Alberta,7847,24,16153.0,Green Zone,NA
+Lacombe,Alberta,13057,68,54943.0,Green Zone,NA
+Lethbridge,Alberta,92729,114,21271.0,Green Zone,NA
+Olds,Alberta,9184,21,11816.0,Green Zone,NA
+Fort Saskatchewan,Alberta,24149,42,17851.0,Green Zone,NA
+Airdrie,Alberta,61581,53,-8581.0,Red Zone,9
+Hinton,Alberta,9882,13,3118.0,Green Zone,NA
+Didsbury,Alberta,9328,101,91672.0,Green Zone,NA
+North Cooking Lake,Alberta,33064,12,-21064.0,Red Zone,21
+Brooks,Alberta,14451,16,1549.0,Green Zone,NA
+Spruce Grove,Alberta,93694,83,-10694.0,Red Zone,11
+Okotoks,Alberta,28881,20,-8881.0,Red Zone,9
+Drumheller,Alberta,7982,204,196018.0,Green Zone,NA
+Namao,Alberta,25545,73,47455.0,Green Zone,NA
+Crowsnest Pass,Alberta,5589,117,111411.0,Green Zone,NA
+Leduc,Alberta,29993,27,-2993.0,Red Zone,3
+Vegreville,Alberta,5708,13,7292.0,Green Zone,NA
+St. Albert,Alberta,65589,57,-8589.0,Red Zone,9
+Innisfail,Alberta,7847,49,41153.0,Green Zone,NA
+Lloydminster,Alberta,19645,6,-13645.0,Red Zone,14
+Beaumont,Alberta,17396,26,8604.0,Green Zone,NA
+Ponoka,Alberta,7229,6,-1229.0,Red Zone,1
+Coaldale,Alberta,8215,10,1785.0,Green Zone,NA
+Whitecourt,Alberta,1082,3,1918.0,Green Zone,NA
+Canmore,Alberta,13992,30,16008.0,Green Zone,NA
+Devon,Alberta,6578,12,5422.0,Green Zone,NA
+Drayton Valley,Alberta,7235,21,13765.0,Green Zone,NA
+Taber,Alberta,8428,19,10572.0,Green Zone,NA
+Cochrane,Alberta,25853,19,-6853.0,Red Zone,7
+Stony Plain,Alberta,17189,19,1811.0,Green Zone,NA
+Camrose,Alberta,18742,6,-12742.0,Red Zone,13
+Cold Lake,Alberta,14961,6,-8961.0,Red Zone,9
+Wainwright,Alberta,6270,9,2730.0,Green Zone,NA
+Wetaskiwin,Alberta,12655,20,7345.0,Green Zone,NA
+Strathmore,Alberta,13756,16,2244.0,Green Zone,NA
+Ardrossan,Alberta,7678,9,1322.0,Green Zone,NA
+Redwood Meadows,Alberta,4098,3,-1098.0,Red Zone,1
+Edson,Alberta,8414,3,-5414.0,Red Zone,5
+Golden,British Columbia,3708,52,48292.0,Green Zone,NA
+Thames Centre,Ontario,13191,20,6809.0,Green Zone,NA
+Burnaby,British Columbia,232755,332,99245.0,Green Zone,NA
+Campbell River,British Columbia,35138,28,-7138.0,Red Zone,7
+Richmond,British Columbia,198309,398,199691.0,Green Zone,NA
+Coquitlam,British Columbia,139284,131,-8284.0,Red Zone,8
+Surrey,British Columbia,517887,500,-17887.0,Red Zone,18
+Mission,British Columbia,38833,45,6167.0,Green Zone,NA
+Port Coquitlam,British Columbia,139284,105,-34284.0,Red Zone,34
+Pitt Meadows,British Columbia,18573,33,14427.0,Green Zone,NA
+North Vancouver,British Columbia,85935,144,58065.0,Green Zone,NA
+Vancouver,British Columbia,662248,1099,436752.0,Green Zone,NA
+Kelowna,British Columbia,142146,157,14854.0,Green Zone,NA
+Smithers,British Columbia,5351,102,96649.0,Green Zone,NA
+Kimberley,British Columbia,7425,11,3575.0,Green Zone,NA
+Quesnel,British Columbia,9879,19,9121.0,Green Zone,NA
+Abbotsford,British Columbia,141397,231,89603.0,Green Zone,NA
+Delta,British Columbia,102238,201,98762.0,Green Zone,NA
+Maple Ridge,British Columbia,82256,90,7744.0,Green Zone,NA
+Kamloops,British Columbia,100046,76,-24046.0,Red Zone,24
+Langley,British Columbia,117285,236,118715.0,Green Zone,NA
+Summerland,British Columbia,11615,107,95385.0,Green Zone,NA
+Windermere,British Columbia,5351,71,65649.0,Green Zone,NA
+Whistler,British Columbia,19512,322,302488.0,Green Zone,NA
+Terrace,British Columbia,15723,21,5277.0,Green Zone,NA
+Prince Rupert,British Columbia,12220,49,36780.0,Green Zone,NA
+Lillooet,British Columbia,2321,59,56679.0,Green Zone,NA
+Prince George,British Columbia,74003,85,10997.0,Green Zone,NA
+Spallumcheen,British Columbia,17706,152,134294.0,Green Zone,NA
+Saanich,British Columbia,117735,208,90265.0,Green Zone,NA
+Ubc,British Columbia,4585,57,52415.0,Green Zone,NA
+Victoria,British Columbia,91867,60,-31867.0,Red Zone,32
+Hilliers,British Columbia,8943,44,35057.0,Green Zone,NA
+Royston,British Columbia,25599,28,2401.0,Green Zone,NA
+Cumberland,British Columbia,29676,139,109324.0,Green Zone,NA
+Nanaimo,British Columbia,90504,75,-15504.0,Red Zone,16
+Sidney,British Columbia,11672,25,13328.0,Green Zone,NA
+Langford Station,British Columbia,35342,27,-8342.0,Red Zone,8
+Port Moody,British Columbia,33551,42,8449.0,Green Zone,NA
+West Vancouver,British Columbia,42473,43,527.0,Green Zone,NA
+New Westminster,British Columbia,70996,115,44004.0,Green Zone,NA
+Chilliwack,British Columbia,83788,66,-17788.0,Red Zone,18
+Northern Rockies,British Columbia,5393,198,192607.0,Green Zone,NA
+Indian Arm,British Columbia,12042,20,7958.0,Green Zone,NA
+Rossland,British Columbia,3729,31,27271.0,Green Zone,NA
+Kitimat,British Columbia,8131,10,1869.0,Green Zone,NA
+Vernon,British Columbia,44600,27,-17600.0,Red Zone,18
+Squamish,British Columbia,19512,24,4488.0,Green Zone,NA
+Williams Lake,British Columbia,10753,19,8247.0,Green Zone,NA
+Gold River,British Columbia,1500,10,8500.0,Green Zone,NA
+Black Creek,British Columbia,1219,20,18781.0,Green Zone,NA
+Port Alberni,British Columbia,17678,25,7322.0,Green Zone,NA
+Nelson,British Columbia,10664,13,2336.0,Green Zone,NA
+White Rock,British Columbia,19952,17,-2952.0,Red Zone,3
+Cranbrook,British Columbia,19259,26,6741.0,Green Zone,NA
+View Royal,British Columbia,35342,57,21658.0,Green Zone,NA
+Errington,British Columbia,12514,15,2486.0,Green Zone,NA
+Kent,British Columbia,6067,37,30933.0,Green Zone,NA
+Oak Bay,British Columbia,18094,15,-3094.0,Red Zone,3
+Dawson Creek,British Columbia,12978,19,6022.0,Green Zone,NA
+Salmon Arm,British Columbia,17706,3,-14706.0,Red Zone,15
+Merritt,British Columbia,7139,28,20861.0,Green Zone,NA
+Sooke,British Columbia,13001,13,-1.0,Red Zone,0
+Fulford Harbour,British Columbia,2250,7,4750.0,Green Zone,NA
+Penticton,British Columbia,33761,24,-9761.0,Red Zone,10
+North Cowichan,British Columbia,44451,9,-35451.0,Red Zone,35
+Trail,British Columbia,7709,10,2291.0,Green Zone,NA
+Saltair,British Columbia,8537,21,12463.0,Green Zone,NA
+Hope,British Columbia,6181,36,29819.0,Green Zone,NA
+Comox,British Columbia,14828,16,1172.0,Green Zone,NA
+Coldstream,British Columbia,10314,18,7686.0,Green Zone,NA
+Kincolith,British Columbia,49216,6,-43216.0,Red Zone,43
+Powell River,British Columbia,13157,5,-8157.0,Red Zone,8
+Fort St. John,British Columbia,20155,19,-1155.0,Red Zone,1
+Castlegar,British Columbia,8039,10,1961.0,Green Zone,NA
+Pinantan Lake,British Columbia,530,10,9470.0,Green Zone,NA
+Central Saanich,British Columbia,16814,10,-6814.0,Red Zone,7
+Lake Country,British Columbia,12922,10,-2922.0,Red Zone,3
+Cedar,British Columbia,2836,30,27164.0,Green Zone,NA
+Winnipeg,Manitoba,705244,1113,407756.0,Green Zone,NA
+Prairie View,Manitoba,3114,148,144886.0,Green Zone,NA
+Lorne,Manitoba,3429,148,144571.0,Green Zone,NA
+Portage La Prairie,Manitoba,13304,32,18696.0,Green Zone,NA
+Altona,Manitoba,7162,163,155838.0,Green Zone,NA
+Wasagamack,Manitoba,5689,333,327311.0,Green Zone,NA
+Alonsa,Manitoba,4014,104,99986.0,Green Zone,NA
+Rockwood,Manitoba,11913,230,218087.0,Green Zone,NA
+Rosser,Manitoba,1372,202,200628.0,Green Zone,NA
+North Norfolk,Manitoba,3368,87,83632.0,Green Zone,NA
+Neepawa,Manitoba,4609,128,123391.0,Green Zone,NA
+La Broquerie,Manitoba,15733,170,154267.0,Green Zone,NA
+Springfield,Manitoba,15342,83,67658.0,Green Zone,NA
+Cartier,Manitoba,3368,9,5632.0,Green Zone,NA
+Ritchot,Manitoba,6679,12,5321.0,Green Zone,NA
+Brokenhead,Manitoba,15342,267,251658.0,Green Zone,NA
+St. Clements,Manitoba,10876,9,-1876.0,Red Zone,2
+Headingley,Manitoba,3579,12,8421.0,Green Zone,NA
+Dauphin,Manitoba,8457,41,32543.0,Green Zone,NA
+Macdonald,Manitoba,7162,18,10838.0,Green Zone,NA
+Steinbach,Manitoba,15829,27,11171.0,Green Zone,NA
+Thompson,Manitoba,13678,36,22322.0,Green Zone,NA
+St. Andrews,Manitoba,11913,35,23087.0,Green Zone,NA
+Brandon,Manitoba,48859,69,20141.0,Green Zone,NA
+East St. Paul,Manitoba,9372,22,12628.0,Green Zone,NA
+Cornwallis,Manitoba,48859,109,60141.0,Green Zone,NA
+Morden,Manitoba,9038,36,26962.0,Green Zone,NA
+Flin Flon (Part),Manitoba,4982,12,7018.0,Green Zone,NA
+Stanley,Manitoba,12660,18,5340.0,Green Zone,NA
+Tache,Manitoba,11568,18,6432.0,Green Zone,NA
+West St. Paul,Manitoba,5368,8,2632.0,Green Zone,NA
+Cardwell,New Brunswick,1353,8,6647.0,Green Zone,NA
+Oromocto,New Brunswick,5119,35,29881.0,Green Zone,NA
+Saint Andrews,New Brunswick,1786,28,26214.0,Green Zone,NA
+Manners Sutton,New Brunswick,1777,20,18223.0,Green Zone,NA
+Grand Falls,New Brunswick,14171,12,-2171.0,Red Zone,2
+New Maryland,New Brunswick,58220,55,-3220.0,Red Zone,3
+Cornwall,Prince Edward Island,46589,199,152411.0,Green Zone,NA
+Fredericton,New Brunswick,6154,33,26846.0,Green Zone,NA
+Summerside,Prince Edward Island,14829,19,4171.0,Green Zone,NA
+Kensington,Prince Edward Island,14829,99,84171.0,Green Zone,NA
+St. John's,Newfoundland and Labrador,108860,245,136140.0,Green Zone,NA
+Saint John,New Brunswick,67575,218,150425.0,Green Zone,NA
+Hay River,Northwest Territories,3528,132,128472.0,Green Zone,NA
+Yellowknife,Northwest Territories,19569,67,47431.0,Green Zone,NA
+Whitehorse,Yukon,25085,84,58915.0,Green Zone,NA
+St. Anthony,Newfoundland and Labrador,2258,78,75742.0,Green Zone,NA
+Shediac,New Brunswick,6376,46,39624.0,Green Zone,NA
+Hampton,New Brunswick,4289,25,20711.0,Green Zone,NA
+Cambridge Bay,Nunavut,1766,29,27234.0,Green Zone,NA
+Upper Miramichi,New Brunswick,2218,29,26782.0,Green Zone,NA
+Fort Liard,Northwest Territories,3365,6,2635.0,Green Zone,NA
+Happy Valley,Newfoundland and Labrador,8109,19,10891.0,Green Zone,NA
+Bishops Falls,Newfoundland and Labrador,3156,29,25844.0,Green Zone,NA
+Glenelg,New Brunswick,1560,20,18440.0,Green Zone,NA
+Corner Brook,Newfoundland and Labrador,19806,66,46194.0,Green Zone,NA
+Clarenville,Newfoundland and Labrador,6291,20,13709.0,Green Zone,NA
+Highfield,New Brunswick,1261,21,19739.0,Green Zone,NA
+Torbay,Newfoundland and Labrador,7899,21,13101.0,Green Zone,NA
+Belledune,New Brunswick,1548,25,23452.0,Green Zone,NA
+Lewisporte,Newfoundland and Labrador,3409,91,87591.0,Green Zone,NA
+Moncton,New Brunswick,108620,218,109380.0,Green Zone,NA
+Petitcodiac,New Brunswick,1353,50,48647.0,Green Zone,NA
+Rogersville,New Brunswick,1166,23,21834.0,Green Zone,NA
+Bonavista,Newfoundland and Labrador,3448,41,37552.0,Green Zone,NA
+Buctouche,New Brunswick,2361,10,7639.0,Green Zone,NA
+Hillsborough,New Brunswick,1308,30,28692.0,Green Zone,NA
+Marystown,Newfoundland and Labrador,5316,65,59684.0,Green Zone,NA
+Deer Lake,Newfoundland and Labrador,5249,15,9751.0,Green Zone,NA
+Weldford,New Brunswick,1338,9,7662.0,Green Zone,NA
+Bathurst,New Brunswick,18154,36,17846.0,Green Zone,NA
+Bay Roberts,Newfoundland and Labrador,6012,114,107988.0,Green Zone,NA
+Placentia,Newfoundland and Labrador,3496,79,75504.0,Green Zone,NA
+Minto,New Brunswick,2305,8,5695.0,Green Zone,NA
+Charlottetown,Prince Edward Island,42602,91,48398.0,Green Zone,NA
+Riverview,New Brunswick,19667,23,3333.0,Green Zone,NA
+Greenwich,New Brunswick,1058,21,19942.0,Green Zone,NA
+Dieppe,New Brunswick,107068,88,-19068.0,Red Zone,19
+Woodstock,New Brunswick,40902,12,-28902.0,Red Zone,29
+Cocagne,New Brunswick,2649,26,23351.0,Green Zone,NA
+Sussex,New Brunswick,1525,5,3475.0,Green Zone,NA
+Carmacks,Yukon,15147,55,39853.0,Green Zone,NA
+Quispamsis,New Brunswick,18245,34,15755.0,Green Zone,NA
+Rankin Inlet,Nunavut,2842,42,39158.0,Green Zone,NA
+Grand Manan,New Brunswick,2360,12,9640.0,Green Zone,NA
+Iqaluit,Nunavut,7740,112,104260.0,Green Zone,NA
+Campbellton,New Brunswick,3570,28,24430.0,Green Zone,NA
+Alnwick,New Brunswick,3640,24,20360.0,Green Zone,NA
+Memramcook,New Brunswick,1096,18,16904.0,Green Zone,NA
+Gander,Newfoundland and Labrador,11688,20,8312.0,Green Zone,NA
+Sussex Corner,New Brunswick,4282,25,20718.0,Green Zone,NA
+Upper Blackville,New Brunswick,4585,9,4415.0,Green Zone,NA
+Tracadie,New Brunswick,16114,12,-4114.0,Red Zone,4
+Saint-Andre,New Brunswick,1129,5,3871.0,Green Zone,NA
+Edmundston,New Brunswick,16580,39,22420.0,Green Zone,NA
+Newcastle,New Brunswick,3640,32,28360.0,Green Zone,NA
+Lincoln,New Brunswick,7790,86,78210.0,Green Zone,NA
+Botsford,New Brunswick,1058,34,32942.0,Green Zone,NA
+Dalhousie,New Brunswick,3126,2,-1126.0,Red Zone,1
+Saint Stephen,New Brunswick,1529,10,8471.0,Green Zone,NA
+Mount Pearl Park,Newfoundland and Labrador,22957,12,-10957.0,Red Zone,11
+Stratford,Prince Edward Island,31465,8,-23465.0,Red Zone,23
+Westfield Beach,New Brunswick,2913,12,9087.0,Green Zone,NA
+Labrador City,Newfoundland and Labrador,7220,10,2780.0,Green Zone,NA
+Hardwicke,New Brunswick,2201,4,1799.0,Green Zone,NA
+Paradise,Newfoundland and Labrador,21389,17,-4389.0,Red Zone,4
+Saint-Charles,New Brunswick,1887,29,27113.0,Green Zone,NA
+Allardville,New Brunswick,2032,10,7968.0,Green Zone,NA
+Springfield,New Brunswick,15342,9,-6342.0,Red Zone,6
+Lameque,New Brunswick,1285,9,7715.0,Green Zone,NA
+Maugerville,New Brunswick,58220,49,-9220.0,Red Zone,9
+Beresford,New Brunswick,6248,4,-2248.0,Red Zone,2
+Saint-Leonard,New Brunswick,1300,14,12700.0,Green Zone,NA
+Wabush,Newfoundland and Labrador,1906,6,4094.0,Green Zone,NA
+Grand Falls,Newfoundland and Labrador,14171,20,5829.0,Green Zone,NA
+Wicklow,New Brunswick,1604,16,14396.0,Green Zone,NA
+Conception Bay South,Newfoundland and Labrador,26199,18,-8199.0,Red Zone,8
+Bright,New Brunswick,3289,18,14711.0,Green Zone,NA
+Stephenville Crossing,Newfoundland and Labrador,1719,43,41281.0,Green Zone,NA
+Saint Marys,New Brunswick,4837,8,3163.0,Green Zone,NA
+Paquetville,New Brunswick,2329,6,3671.0,Green Zone,NA
+Three Tree Creek,New Brunswick,4585,6,1415.0,Green Zone,NA
+Carbonear,Newfoundland and Labrador,4838,6,1162.0,Green Zone,NA
+Saint George,New Brunswick,2341,10,7659.0,Green Zone,NA
+Caraquet,New Brunswick,1380,8,6620.0,Green Zone,NA
+Kedgwick,New Brunswick,1979,6,4021.0,Green Zone,NA
+Pasadena,Newfoundland and Labrador,3620,12,8380.0,Green Zone,NA
+Charlie Lake,New Brunswick,1856,12,10144.0,Green Zone,NA
+Gordon,New Brunswick,1471,10,8529.0,Green Zone,NA
+Springdale,Newfoundland and Labrador,2971,21,18029.0,Green Zone,NA
+Bois-Gagnon,New Brunswick,2034,6,3966.0,Green Zone,NA
+Northesk,New Brunswick,2263,12,9737.0,Green Zone,NA
+Petit Rocher,New Brunswick,6248,14,7752.0,Green Zone,NA
+Saint-Louis,New Brunswick,1802,8,6198.0,Green Zone,NA
+Coverdale,New Brunswick,4466,20,15534.0,Green Zone,NA
+Kingsclear,New Brunswick,4750,11,6250.0,Green Zone,NA
+Musquash,New Brunswick,1194,16,14806.0,Green Zone,NA
+Saint-Quentin,New Brunswick,2194,6,3806.0,Green Zone,NA
+New Bandon,New Brunswick,1214,8,6786.0,Green Zone,NA
+Dundas,New Brunswick,3914,6,2086.0,Green Zone,NA
+Grand Bay-Westfield,New Brunswick,4964,14,9036.0,Green Zone,NA
+Stephenville,Newfoundland and Labrador,6623,12,5377.0,Green Zone,NA
+Channel-Port aux Basques,Newfoundland and Labrador,4067,6,1933.0,Green Zone,NA
+Douglas,New Brunswick,6154,7,846.0,Green Zone,NA
+Southampton,New Brunswick,1484,14,12516.0,Green Zone,NA
+Saint Martins,New Brunswick,1132,9,7868.0,Green Zone,NA
+Sackville,New Brunswick,5331,13,7669.0,Green Zone,NA
+Pennfield Ridge,New Brunswick,2170,11,8830.0,Green Zone,NA
+Saint-Jacques,New Brunswick,16580,6,-10580.0,Red Zone,11
+Wilmot,New Brunswick,1022,8,6978.0,Green Zone,NA
+Perth,New Brunswick,1471,9,7529.0,Green Zone,NA
+Cap Pele,New Brunswick,6376,6,-376.0,Red Zone,0
+Shippegan,New Brunswick,4800,7,2200.0,Green Zone,NA
+Portugal Cove-St. Philip's,Newfoundland and Labrador,8147,8,-147.0,Red Zone,0
+Chipman,New Brunswick,1104,5,3896.0,Green Zone,NA
+McAdam,New Brunswick,1151,4,2849.0,Green Zone,NA
+Northampton,New Brunswick,1724,9,7276.0,Green Zone,NA
+Pokemouche,New Brunswick,7519,2,-5519.0,Red Zone,6
